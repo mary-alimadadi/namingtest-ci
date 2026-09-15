@@ -17,7 +17,7 @@ class CalculatorTest {
         int result = calculator.add(2, 3);
 
         // Assert
-        assertEquals(6, result);
+        assertEquals(5, result);
     }
 
 }
